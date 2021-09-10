@@ -20,6 +20,8 @@ CAPITULO XXIII
 
 ![image](https://user-images.githubusercontent.com/85137398/132801347-291605b8-7125-40ce-9eaf-7e1d657a9ef6.png)
 
+![MPC1PII (3)](https://user-images.githubusercontent.com/84390820/132802392-dbca3d53-5ad8-4a1b-b97c-b30f542dbedf.jpeg)
+
 CAPITULO XXIV
 
 3. EJERCICIOS
