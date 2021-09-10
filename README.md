@@ -463,25 +463,109 @@ b. Sume las corrientes. ¿Se cumple IA IB IC 0?
 
 ![image](https://user-images.githubusercontent.com/85209614/132805341-11f26841-2374-43dd-8a41-75b87f659ddf.png)
 
+![image](https://user-images.githubusercontent.com/85209614/132806267-6c8058af-bfc6-43a5-a266-4f6e4f30f0a8.png)
 
+![image](https://user-images.githubusercontent.com/85209614/132806273-bc52b49b-9a0e-44ed-909a-e636d0e0101b.png)
 
+![image](https://user-images.githubusercontent.com/85209614/132806281-177565ab-ba38-4e6d-8d5f-c001d48bd414.png)
 
+![image](https://user-images.githubusercontent.com/85209614/132806286-ef2c5abf-7c63-4fa4-b500-01bcf51186b6.png)
 
+3. Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el circuito de la figura 24-3(c). Suponga carga puramente resistiva y balanceada.
 
+![image](https://user-images.githubusercontent.com/85209614/132806316-29dc21b8-312b-4246-8a50-b257a210d04b.png)
 
+5. Para las cargas de la figura 24-4, Vbc 208 V∠-75.
 
+a. Determine los voltajes línea a línea Vab y Vca.
 
+b. Determine los voltajes de fase.
 
+c. Dibuje el diagrama fasorial.
 
+![image](https://user-images.githubusercontent.com/85209614/132806386-2067ee0e-b637-4a4c-ac6e-56e48a2c16d9.png)
 
+![image](https://user-images.githubusercontent.com/85209614/132806402-2531bd7d-4e2c-427f-b29e-652d6e73a512.png)
 
+![image](https://user-images.githubusercontent.com/85209614/132806414-1079ae82-b92d-4957-bff5-54427dc752b2.png)
 
+7. Para la carga de la figura 24-47, Van 347 V∠15. Determine todas las corrientes de línea. Dibuje el diagrama fasorial.
 
+![image](https://user-images.githubusercontent.com/85209614/132806446-089adfa9-d7a2-4aea-a52a-21fde773e7ad.png)
 
+![image](https://user-images.githubusercontent.com/85209614/132806457-09fe3a3a-9d02-426c-9c1c-da3cd9c21476.png)
 
+![image](https://user-images.githubusercontent.com/85209614/132806477-87327a46-c0d2-4427-b2a7-bb4ea1adbfcd.png)
 
+![image](https://user-images.githubusercontent.com/85209614/132806484-fea281f0-674f-4ceb-ad93-36f530d8a381.png)
 
+![image](https://user-images.githubusercontent.com/85209614/132806495-5213423f-e8a5-4106-8de1-fbff38540a09.png)
 
+9. Una carga Y balanceada tiene una impedancia de Zan 14.7 OHM ∠16. Si Vcn 120 V∠160 , determine todas las corrientes de línea
+
+![image](https://user-images.githubusercontent.com/85209614/132806534-cad2cbcc-35f4-4e88-9a8f-1cffc8c29781.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806559-00f4f70f-bf09-45b6-9778-47b786371eff.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806566-db522ad4-04ee-4500-bba0-393e879ad2a6.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806575-d24b0c00-79db-49f8-ab00-defc73281ed5.png)
+
+11. Para el circuito de la figura 24-48, Vab 480 V∠0. Encuentre la fase y las corrientes de línea.
+
+![image](https://user-images.githubusercontent.com/85209614/132806602-c8c947cb-b613-41b9-9cad-3b774d90de5c.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806611-a8482770-1162-425b-a496-aa947c17e638.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806628-153fb4d2-5d72-4726-9d0c-f91cba686142.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806651-4e5a68e7-e21f-4fd9-a56d-cb873a156d28.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806662-5ac34c89-5e9c-467f-8366-bc61fa5f028b.png)
+
+13. Para el circuito de la figura 24-48, si Iab 10 A∠-21, determine todos los voltajes de línea.
+
+![image](https://user-images.githubusercontent.com/85209614/132806691-9ddc8b22-b9ca-4b97-85be-66fc7d07d16a.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806707-5ac98f2b-1e83-4eca-8f05-3120548802c8.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806716-0995d440-be1b-49ee-ab04-83d9ac037138.png)
+
+15. Una carga Y balanceada tiene una impedancia de fase de 24 OHM∠33� y un voltaje línea a línea de 600 V. Tome Van como referencia y determine todas las corrientes de línea
+
+![image](https://user-images.githubusercontent.com/85209614/132806746-9386856b-2243-4d15-a67e-6e2968958dc6.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806756-1a083da1-ef94-4bab-85b3-441fd97635eb.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806760-3f207f02-f53d-40a7-ab82-d318f4512e58.png)
+
+19. Una carga balanceada a 60 Hz tiene una corriente de Ibc 4.5 A∠-85. El voltaje de línea es de 240 volts y Vab se toma como referencia. a. Encuentre las otras corrientes de fase. b. Encuentre las corrientes de línea. c. Encuentre la resistencia R y la capacitancia C de la carga.
+
+![image](https://user-images.githubusercontent.com/85209614/132806804-1d613454-bdf2-4970-a0d9-2b4a4c701f6b.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806811-f57a294d-ccb6-4348-ad1f-451fdd103222.png)
+
+![image](https://user-images.githubusercontent.com/85209614/132806835-cc1eb3e9-029d-4a14-a914-997171146535.png)
+
+21. Para la figura 24-49, Van 120 V∠0. Dibuje el equivalente de una sola fase y: a. Encuentre el voltaje de fase EAN, magnitud y ángulo. b. Encuentre el voltaje de línea EAB, magnitud y ángulo
+
+![image](https://user-images.githubusercontent.com/85209614/132806871-4df6134d-4dfa-4d43-b581-56dc5e04255b.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/85209614/132806893-81a5e729-00d1-4331-935f-1885193b49c6.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85209614/132806905-a2cd4ff6-fc4c-4db4-a9d4-38b31c56ddf1.png)
+
+ 29. Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga Δ es Vab 480 V∠30º. Encuentre el voltaje del generador EAB, magnitud y ángulo.
+
+![image](https://user-images.githubusercontent.com/85209614/132806983-0157b029-14ed-460b-afe9-370c62f37f38.png)
+
+31. Para la figura 24-21(a), ZY = 15Ω+ j20 Ω, ZΔ = 9 Ω - j12 Ω, Zlínea 0.1 Ω+ j0.1 Ω, e I ab= 40 A∠73. 13º. Encuentre el voltaje de fase Y Van, magnitud y ángulo.
+
+![image](https://user-images.githubusercontent.com/85209614/132807022-9a35bdd0-5334-4408-8fb5-2422177b450f.png)
 
 
 
