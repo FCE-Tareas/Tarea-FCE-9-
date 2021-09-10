@@ -24,6 +24,11 @@ CAPITULO XXIII
 
 CAPITULO XXIV
 
+
+![14687691b36b42d4817839079e59f934-0001](https://user-images.githubusercontent.com/84390686/132819202-f0f03b49-fb47-4a8a-81ee-0e8d0c42cb85.jpg)
+
+![aca1829cfa2644f29ffab6f0ef3c9a51-0001](https://user-images.githubusercontent.com/84390686/132819231-08179f8c-a058-42f2-8b93-5ec6c5b0e08d.jpg)
+
 3. EJERCICIOS
 
 CAPITULO XXIII
