@@ -894,8 +894,16 @@ VnN= 120V0º - 34.92V-0.737º
 
 VnN= 85.10V0.302º
 
+4. VIDEO 
 
+https://youtu.be/rNbJAyQxO48
 
+5. CONCLUSIONES 
 
+* El signo del voltaje mutuo es el mismo que el signo de su propio voltaje cuando ambas corrientes entran en las terminales con punto o sin punto, pero es opuesto cuando una corriente entra en una terminal con punto y la otra entra en una terminal sin punto.
+
+6. BIBLIOGRAFÍA
+
+Robbins, A., & Miller, W. C. (2008). Análisis de circuitos: teoría y práctica. Cengage Learning Editores.
 
 
