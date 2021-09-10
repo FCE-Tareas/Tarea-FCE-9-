@@ -902,6 +902,10 @@ https://youtu.be/rNbJAyQxO48
 
 * El signo del voltaje mutuo es el mismo que el signo de su propio voltaje cuando ambas corrientes entran en las terminales con punto o sin punto, pero es opuesto cuando una corriente entra en una terminal con punto y la otra entra en una terminal sin punto.
 
+* Los sistemas trifásicos pueden ser balanceados o desbalanceados. Si un sistema está balanceado, se le puede analizar considerando sólo una de sus fases.
+
+* El sistema trifásico presenta una serie de ventajas, como son la economía de sus líneas de transporte de energía (hilos de menor sección que en una línea monofásica equivalente) y de los transformadores utilizados, así como su elevado rendimiento de los receptores, especialmente motores, a los que la línea trifásica alimenta con potencia constante.
+
 6. BIBLIOGRAFÍA
 
 Robbins, A., & Miller, W. C. (2008). Análisis de circuitos: teoría y práctica. Cengage Learning Editores.
