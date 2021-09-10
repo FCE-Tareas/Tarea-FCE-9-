@@ -453,6 +453,17 @@ I_p= 5100/7200
 I_p = 0.708 A
 
 
+CAPITULO XXIV
+
+1. Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, e IC sumarán cero. Para ilustrarlo, cambie la impedancia de carga de 12 hom a 15 ohm ∠30 y para EAA= 120 V∠0, haga lo siguiente: 
+
+a. Calcule las corrientes IA, IB e IC.
+
+b. Sume las corrientes. ¿Se cumple IA IB IC 0?
+
+![image](https://user-images.githubusercontent.com/85209614/132805341-11f26841-2374-43dd-8a41-75b87f659ddf.png)
+
+
 
 
 
