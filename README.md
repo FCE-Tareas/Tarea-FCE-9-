@@ -452,139 +452,171 @@ I_p= 5100/7200
 
 I_p = 0.708 A
 
+21. Un amplificador con un equivalente de Thévenin de 10 V y RTh de 25 Ω maneja una bocina de 4 Ω a través de un transformador con una relación de vueltas de a = 5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
 
-CAPITULO XXIV
+Pps = (5)^2 * 4 = 100 Ω
 
-1. Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, e IC sumarán cero. Para ilustrarlo, cambie la impedancia de carga de 12 hom a 15 ohm ∠30 y para EAA= 120 V∠0, haga lo siguiente: 
+Rp = 25 + 100 = 125 Ω
 
-a. Calcule las corrientes IA, IB e IC.
+Ip = 0.08 A
 
-b. Sume las corrientes. ¿Se cumple IA IB IC 0?
+Ip/Is = 1/a => Is = 5 * 0.08 = 0.04 A 
 
-![image](https://user-images.githubusercontent.com/85209614/132805341-11f26841-2374-43dd-8a41-75b87f659ddf.png)
+PL = Is^2 RL
 
-![image](https://user-images.githubusercontent.com/85209614/132806267-6c8058af-bfc6-43a5-a266-4f6e4f30f0a8.png)
+PL = (0.4)^2(4) = 0.64 W 
 
-![image](https://user-images.githubusercontent.com/85209614/132806273-bc52b49b-9a0e-44ed-909a-e636d0e0101b.png)
+Ix^2 = 1/4  =>  I2 = 1/2 
 
-![image](https://user-images.githubusercontent.com/85209614/132806281-177565ab-ba38-4e6d-8d5f-c001d48bd414.png)
+IP/Ix = 1/a  => 2Ip = 1/a => Ip = 1/2a 
 
-![image](https://user-images.githubusercontent.com/85209614/132806286-ef2c5abf-7c63-4fa4-b500-01bcf51186b6.png)
+Rps = 25 + 4a^2 
 
-3. Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el circuito de la figura 24-3(c). Suponga carga puramente resistiva y balanceada.
+Ip = VTH / Rp = 10/(25+4a^2) 
 
-![image](https://user-images.githubusercontent.com/85209614/132806316-29dc21b8-312b-4246-8a50-b257a210d04b.png)
+1/2a = 10/(25+4a^2) => a = 5/2 
 
-5. Para las cargas de la figura 24-4, Vbc 208 V∠-75.
+23. Para la figura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20Ω ∠50º, Z3 = (12 + j4) Ω y Eg = 120 V∠0º. Encuentre cada corriente de carga y la corriente del generador.
 
-a. Determine los voltajes línea a línea Vab y Vca.
+Eg/E2 = a2 
 
-b. Determine los voltajes de fase.
+E2 = 120V∠0º / 2 = 60V<0º 
 
-c. Dibuje el diagrama fasorial.
+E3 = 120 < 0º/5 = 24V < 0º
 
-![image](https://user-images.githubusercontent.com/85209614/132806386-2067ee0e-b637-4a4c-ac6e-56e48a2c16d9.png)
+I2 = E2/Z2 
 
-![image](https://user-images.githubusercontent.com/85209614/132806402-2531bd7d-4e2c-427f-b29e-652d6e73a512.png)
+I2 = 60V<0º/20Ω<50º = 3A < 50º 
 
-![image](https://user-images.githubusercontent.com/85209614/132806414-1079ae82-b92d-4957-bff5-54427dc752b2.png)
+I3 = 24 v < 0º / 12.649 < 18.43º = 1.897 < -18.43º 
 
-7. Para la carga de la figura 24-47, Van 347 V∠15. Determine todas las corrientes de línea. Dibuje el diagrama fasorial.
+Ig = Eg/Z'2 + Eg/Z'3 
 
-![image](https://user-images.githubusercontent.com/85209614/132806446-089adfa9-d7a2-4aea-a52a-21fde773e7ad.png)
+Ig = 1.83 A < -43.78º
 
-![image](https://user-images.githubusercontent.com/85209614/132806457-09fe3a3a-9d02-426c-9c1c-da3cd9c21476.png)
+25. Para la figura 23-77, Eg = 1220 V∠0º.
 
-![image](https://user-images.githubusercontent.com/85209614/132806477-87327a46-c0d2-4427-b2a7-bb4ea1adbfcd.png)
+a. Dibuje el circuito equivalente.
 
-![image](https://user-images.githubusercontent.com/85209614/132806484-fea281f0-674f-4ceb-ad93-36f530d8a381.png)
+b. Determine Ig, IL, y VL.
 
-![image](https://user-images.githubusercontent.com/85209614/132806495-5213423f-e8a5-4106-8de1-fbff38540a09.png)
+![image](https://user-images.githubusercontent.com/84390820/132803887-00535d72-b87d-46a7-b792-2f9fd0aef406.png)
 
-9. Una carga Y balanceada tiene una impedancia de Zan 14.7 OHM ∠16. Si Vcn 120 V∠160 , determine todas las corrientes de línea
+Req = Rp + a^2Rs 
 
-![image](https://user-images.githubusercontent.com/85209614/132806534-cad2cbcc-35f4-4e88-9a8f-1cffc8c29781.png)
+Req = 6Ω 
 
-![image](https://user-images.githubusercontent.com/85209614/132806559-00f4f70f-bf09-45b6-9778-47b786371eff.png)
+Xeq = 4Ω + 10^2 (0.02)
 
-![image](https://user-images.githubusercontent.com/85209614/132806566-db522ad4-04ee-4500-bba0-393e879ad2a6.png)
+Xeq = 6Ω
 
-![image](https://user-images.githubusercontent.com/85209614/132806575-d24b0c00-79db-49f8-ab00-defc73281ed5.png)
+Zeq = 6Ω +j6Ω => ZR = 400 + 400j [Ω] 
 
-11. Para el circuito de la figura 24-48, Vab 480 V∠0. Encuentre la fase y las corrientes de línea.
+Ig = Eg / Zeq + Zr => 2.12 A < -45º 
 
-![image](https://user-images.githubusercontent.com/85209614/132806602-c8c947cb-b613-41b9-9cad-3b774d90de5c.png)
+IL = aIg 
 
-![image](https://user-images.githubusercontent.com/85209614/132806611-a8482770-1162-425b-a496-aa947c17e638.png)
+IL = 21.2 A < -45º 
 
-![image](https://user-images.githubusercontent.com/85209614/132806628-153fb4d2-5d72-4726-9d0c-f91cba686142.png)
+aVL = Eg (ZR / ZR + Zeq) = (1201.97 v < 0º) 
 
-![image](https://user-images.githubusercontent.com/85209614/132806651-4e5a68e7-e21f-4fd9-a56d-cb873a156d28.png)
+VL = 120.2 V  0º
 
-![image](https://user-images.githubusercontent.com/85209614/132806662-5ac34c89-5e9c-467f-8366-bc61fa5f028b.png)
+27. Un transformador que entrega Psal = 48 kW tiene un pérdida en el núcleo de 280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta carga?
 
-13. Para el circuito de la figura 24-48, si Iab 10 A∠-21, determine todos los voltajes de línea.
+n = Psal / Pen * 100% 
 
-![image](https://user-images.githubusercontent.com/85209614/132806691-9ddc8b22-b9ca-4b97-85be-66fc7d07d16a.png)
+Pen = Psal + Pperá 
 
-![image](https://user-images.githubusercontent.com/85209614/132806707-5ac98f2b-1e83-4eca-8f05-3120548802c8.png)
+Pperd = Pcen + Pcobr 
 
-![image](https://user-images.githubusercontent.com/85209614/132806716-0995d440-be1b-49ee-ab04-83d9ac037138.png)
+Pen = Psal + Pcen + Pcobr
 
-15. Una carga Y balanceada tiene una impedancia de fase de 24 OHM∠33� y un voltaje línea a línea de 600 V. Tome Van como referencia y determine todas las corrientes de línea
+n = Psal /(Psal + Pcen + Pcobr) * 100 % 
 
-![image](https://user-images.githubusercontent.com/85209614/132806746-9386856b-2243-4d15-a67e-6e2968958dc6.png)
+n = 48000 / (48000 + 280 + 450) * 100 % = 98.5 %
 
-![image](https://user-images.githubusercontent.com/85209614/132806756-1a083da1-ef94-4bab-85b3-441fd97635eb.png)
+29. Para la figura 23-78,
 
-![image](https://user-images.githubusercontent.com/85209614/132806760-3f207f02-f53d-40a7-ab82-d318f4512e58.png)
+![image](https://user-images.githubusercontent.com/84390820/132804688-9164efb4-a9d8-4256-aec8-1b65060b2c5d.png)
 
-19. Una carga balanceada a 60 Hz tiene una corriente de Ibc 4.5 A∠-85. El voltaje de línea es de 240 volts y Vab se toma como referencia. a. Encuentre las otras corrientes de fase. b. Encuentre las corrientes de línea. c. Encuentre la resistencia R y la capacitancia C de la carga.
+Para cada circuito indique qué signo usar con M, más o menos.
 
-![image](https://user-images.githubusercontent.com/85209614/132806804-1d613454-bdf2-4970-a0d9-2b4a4c701f6b.png)
+El que los voltajes autoinducido y mutuo se sumen o se resten depende de la dirección de las corrientes a través de las bobinas con respecto a las direcciones del devanado, en este caso de ambas ecuaciones tendran signo positivo ya que ambas corrientes entran terminales con punto. 
 
-![image](https://user-images.githubusercontent.com/85209614/132806811-f57a294d-ccb6-4348-ad1f-451fdd103222.png)
+31. Para un conjunto de bobinas acopladas, L1 = 2 H, M = 0.8 H y el coeficiente de acoplamiento es de 0.6. Determine L2.
 
-![image](https://user-images.githubusercontent.com/85209614/132806835-cc1eb3e9-029d-4a14-a914-997171146535.png)
+M = K(2H * L2)^1/2
 
-21. Para la figura 24-49, Van 120 V∠0. Dibuje el equivalente de una sola fase y: a. Encuentre el voltaje de fase EAN, magnitud y ángulo. b. Encuentre el voltaje de línea EAB, magnitud y ángulo
+L2 = 0.88 H 
 
-![image](https://user-images.githubusercontent.com/85209614/132806871-4df6134d-4dfa-4d43-b581-56dc5e04255b.png)
+33. Todo igual que en el problema 32, excepto que i1 = 10 e^-500t A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcúlelos a t = 1 ms.
 
-a)
+![image](https://user-images.githubusercontent.com/84390820/132805306-aa46f873-8b06-4cdd-a23a-0b86cb80be75.png)
 
-![image](https://user-images.githubusercontent.com/85209614/132806893-81a5e729-00d1-4331-935f-1885193b49c6.png)
+Sabiendo que L1 = 25 mH, L2 = 4 mH, M = 0.8 mH 
 
-b)
+V11 = L1 di1/dt 
 
-![image](https://user-images.githubusercontent.com/85209614/132806905-a2cd4ff6-fc4c-4db4-a9d4-38b31c56ddf1.png)
+V11 = 25 mH d/dt(10e^-500t) = -125 e^-500t [V] 
 
- 29. Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga Δ es Vab 480 V∠30º. Encuentre el voltaje del generador EAB, magnitud y ángulo.
+en 1ms => -75.81 V 
 
-![image](https://user-images.githubusercontent.com/85209614/132807234-c3d873fd-f6ae-4a5b-915b-1b862e9ba9b4.png)
+V21 = Mdi1/dt 
 
-![image](https://user-images.githubusercontent.com/85209614/132806983-0157b029-14ed-460b-afe9-370c62f37f38.png)
+V21 = 0.8 mH d/dt(10e-500t) = -4e^-500t [V] 
 
-31. Para la figura 24-21(a), ZY = 15Ω+ j20 Ω, ZΔ = 9 Ω - j12 Ω, Zlínea 0.1 Ω+ j0.1 Ω, e I ab= 40 A∠73. 13º. Encuentre el voltaje de fase Y Van, magnitud y ángulo.
+en (1ms) = -4e^-5000(1ms) = -2.43 V 
 
-![image](https://user-images.githubusercontent.com/85209614/132807022-9a35bdd0-5334-4408-8fb5-2422177b450f.png)
+35. Para la figura 23-80, determine LT.
 
+![image](https://user-images.githubusercontent.com/84390820/132805794-f6740c25-5b73-4bb6-8d66-c69aa508c322.png)
 
+LT = L1 + L2 + 2M (henries) LT = L1 + L2 - 2M (henries) 
 
+LT = ( L1 + L4 + 2M ) + (L2 + L3 - 2M) = 10.5 H 
 
+37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente?
 
+![image](https://user-images.githubusercontent.com/84390820/132806039-5bf8db53-7565-443a-b84a-57cc28ec8075.png)
 
+LT = (L1L2 - M^2) / L1 +L2 + 2M 
 
+M = 0.8(40 * 250)^1/2 = 80 mH 
 
+LT = 3600/130 = 27.69 mH 
 
+w = 2πF = 2π(60) = 377 rad/s 
 
+ZL = jwLT 
 
+ZL = j377 * 27.69 mH 
 
+ZL = 10.439 Ω < 90º 
 
+I = V/Z = 120 V < 0º / 10.439 Ω < 90º = 11.5 A < -90º 
 
+39. Para el circuito de la figura 23-83, escriba las ecuaciones de malla.
 
+![image](https://user-images.githubusercontent.com/84390820/132806679-16001258-745f-44b2-903a-db509c1aad54.png)
 
+100º < 0º - 4I1 - (-j10)I1 - (jwm)I2 - (-j8)(I1 - I2) = 0 
 
+(4+j22) I1 + (j13)I2 = 100º < 0º 
+
+(j13)I1 + (j12)I2 = 0 
+
+41. Escriba las ecuaciones de malla para el circuito de la figura 23-85. (Este es un problema desafiante.)
+
+![image](https://user-images.githubusercontent.com/84390820/132807034-3fefab7b-853f-4a57-a626-1d23002e5be3.png)
+
+-120 º < 0º + 10I1 + jw L1 I1 + jwM (I1-I2) + jwL2 (I1-I2) + jwM I1 = 0 
+
+(10 + j84) I1 - ( j62) I2 = 120º < 0º
+
+-(-j50)I2 + jwL2(I1 - I2) + jwM I1 - (15)I2 = 0
+
+-(j62) I1 + (15)I2 = 0 
 
 
 
