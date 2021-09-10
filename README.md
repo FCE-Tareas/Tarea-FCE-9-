@@ -618,7 +618,276 @@ I = V/Z = 120 V < 0º / 10.439 Ω < 90º = 11.5 A < -90º
 
 -(j62) I1 + (15)I2 = 0 
 
+CAPITULO XXIV
 
+
+31. Para la figura 24-21(a), ZY = 15Ω+j20 Ω, Z Δ = 9Ω - j12 Ω,  Zlinea =  0.1 Ω + j0.1 Ω, e Ia_b  = 40 A73.13º. 
+
+Encuentre el voltaje de fase Y Van, magnitud y ángulo.   
+
+![image](https://user-images.githubusercontent.com/84390686/132818433-4d66efa6-fb91-468a-ba61-be3f150710f4.png)
+
+Zy=9Ω – j12Ω / 3
+
+Zy=5 Ω  53.13º
+
+Iab= (31)^1/2 Iab  -30º
+
+Iab= 69.28º 43.13º
+
+Van=(69.28A43.13º)(553.13º)
+
+Van=34610º
+
+Vn=Van
+
+Vn=346V-10º
+
+33.- Repita el problema 32 para la carga balanceada de la figura 24-51, dado EAN =120 V.
+
+ ![image](https://user-images.githubusercontent.com/84390686/132818442-2747af89-a18b-4d69-a9be-3f2905638cbd.png)
+
+Redibujar el circuito 
+ 
+![image](https://user-images.githubusercontent.com/84390686/132818452-219bddc5-afdc-493b-ba03-cea8699f0203.png)
+
+EAB=3^1/2 EAN
+
+EAB=3^1/2X120
+
+EAB=207.85V
+
+Vab=EAN
+
+Vo=207.85V
+
+Ro=500Ω
+
+Io=Vo/Ro
+
+Io=207.85/500
+
+Io=0.415ª
+
+35.- Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL = 207.8 V en lugar del valor nominal de 208 V.)
+
+![image](https://user-images.githubusercontent.com/84390686/132818468-e26181a6-b586-481e-b58f-6704ba8ade95.png)
+
+Redibujar el circuito
+ 
+![image](https://user-images.githubusercontent.com/84390686/132818477-5571b530-e8e7-411d-8335-61977f59733e.png)
+
+VL = (3Vo)^1/2
+
+VL = (3x120)
+
+VL = 207.8V
+
+Io = Vo/Zo
+
+Io = 102V/15Ω
+
+Io = 8A
+
+IL = Io
+
+IL = 8A 
+
+SL = (3VL)^1/2 IL
+
+SL = (3)^1/2 x207.8 x 8
+
+SL = 2879.4 VA
+
+37.- Para la figura 24-48, EAB - 208 V. Calcule las potencias reales, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36.
+ 
+![image](https://user-images.githubusercontent.com/84390686/132818499-1ed10eb7-0a09-49f0-80de-89ed037b6c73.png)
+
+Eab = 208V
+
+Zo = 20 -j15
+
+Zo = 25Ω-36.87º
+
+θ=-36.87º
+
+Vab=Eab
+
+V= 208V
+
+Io=Vo/Zo
+
+Io=208V/25Ω
+
+Io=8.32A
+
+IL=3^1/2 Io
+
+IL=3^1/2 x 8
+
+IL= 14.41A 
+
+St=3^1/2 xVLxIL
+
+St=3^1/2 x208x14.41
+
+St=5191.4 VA
+
+39. Para la figura 24-53, si Vab = 600 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
+ 
+![image](https://user-images.githubusercontent.com/84390686/132818511-1b074f4f-a355-4207-918f-85114cb1f067.png)
+
+Vab=600V
+
+Vo=600V
+
+Zo=12Ω +j6Ω
+
+Zo=13.42Ω26.56º 
+
+θ=26.56
+
+Io=Vo/Zo
+
+Io=600V/13.42Ω
+
+Io=44.71A 
+
+41. Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
+ 
+![image](https://user-images.githubusercontent.com/84390686/132818534-2f3bcfaa-e1e2-41c0-9814-bd38854207a8.png)
+
+Vab= 480V0º 
+
+Iab=Vab/9+j12
+
+Iab=480V0º / 15Ω53.13
+
+Iab=32A -53.13º
+
+θ=53.13º
+
+St=3Vab Iab
+
+St=3x480x32
+
+St=46.08k VA
+
+Fp=cosθ
+
+Fp=cos53.13º
+
+Fp=0.6
+
+43. Vab = 208 V para una carga balanceada Y, PT = 1200 W, y QT = 750 VAR/(ind). Seleccione Van como referencia y determine Ia. (Use el triángulo de potencia)
+
+St=(Pt^2+Qt^2)^1/2
+
+St=(1200^2 + 750^2)^1/2
+
+St= 1415.1VA
+
+St= 3^1/2 VL IL
+
+Van = Vab/3^1/2
+
+Van = 208/3^1/2
+
+Van = 120V0º
+
+Ia = 3.93A-32º
+
+45. Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C = 120 uF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.
+ 
+![image](https://user-images.githubusercontent.com/84390686/132818549-2f836d29-3d22-458d-8c06-170c3a9be7a9.png)
+
+So= Si/3
+
+So=93250 + 57791.16 / 3
+
+So=31083.33 + j19263.72
+
+47.- Para la figura 24-47, el voltaje de fase del generador es de 120 volts.
+
+![image](https://user-images.githubusercontent.com/84390686/132818595-430ba3c5-418e-4ad9-a465-a6eeeeac3258.png)
+
+Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34.
+
+I= 120/15
+
+I=8
+
+Para la potencia:
+
+Pt = 3(120)(8)(36.87)
+
+Pt = 2304 W
+
+49.- Para el circuito de la figura 24-56, Vab = 208 V∠30°.
+
+![image](https://user-images.githubusercontent.com/84390686/132818614-e2fc124c-42b4-4798-93d8-7afa9a0da46b.png)
+
+Determine la magnitud y angulo de las corrientes
+
+I=1020º / 20.6214º
+
+I=5.82ª
+
+Ia=5.82  -14º
+
+Ib=5.82  -344º
+
+Ic=5.82 106º
+
+51.- Considere el circuito de la figura 24-56.
+
+![image](https://user-images.githubusercontent.com/84390686/132818625-9e83079c-b5c8-4eb5-ae98-b84c88580067.png)
+
+Calcule el factor de potencia a partir del ángulo de las impedancias de fase.
+
+Zo= 20.62Ω 14º
+
+θ=14º
+
+Fp= cos (14)
+
+Fp= 0.99
+
+55. Para la figura 24-59, calcule lo siguiente:
+
+![image](https://user-images.githubusercontent.com/84390686/132818641-46191204-6e92-48f3-ace4-13b44a07cb23.png)
+
+La corriente en el neutro.
+
+In= Ia + Ib + Ic
+
+In= 6.667A0º + 2.683A-93.44º + 2.4A66.9º
+
+In=6.667-0.161-j2.678+0.941+j2.207
+
+In=7.447-j0.471
+
+In=7.462A-3.62º
+
+Potencia total en la carga
+
+PT= Pa + Pb + Pc
+
+PT= 800 + 288 + 173
+
+PT= 1261W
+
+57. A partir del problema 56, Ia = 1.94 A∠0.737°, Ib = 4.0 A∠117.7° e Ic = 3.57 A∠91.4°. Calcule lo siguiente:
+
+![image](https://user-images.githubusercontent.com/84390686/132818661-9b881f67-324d-4bda-b9ed-d34277cd225f.png)
+
+El voltaje entre el neutro de la carga y el neutro del generador.
+
+VnN= EAN-Van
+
+VnN= 120V0º - 34.92V-0.737º
+
+VnN= 85.10V0.302º
 
 
 
